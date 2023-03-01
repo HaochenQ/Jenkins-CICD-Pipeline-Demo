@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+docker login -u howardq1997
+
+dckr_pat_M8GvB5FW1MAvg4S2w1rS66OQGvk
+
